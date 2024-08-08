@@ -37,6 +37,11 @@ CogniChain combines "Cognition" (the mental action of acquiring knowledge) and "
 
 4. Update the `OLLAMA_URL` variable in the script with your Ollama server's IP address.
 
+
+<img width="714" alt="image" src="https://github.com/user-attachments/assets/f4f68f08-fb2b-4e3c-9d97-69193887a5bc">
+
+
+
 ## Usage
 
 Run the main script:
