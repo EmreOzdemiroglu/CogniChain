@@ -1,5 +1,7 @@
 # CogniChain: AI-Powered Research Assistant
 
+So basically a knowledge graph
+
 CogniChain combines "Cognition" (the mental action of acquiring knowledge) and "Chain" (representing the linked nature of the research process). This project is an AI-powered research assistant that automates the process of gathering, analyzing, and summarizing information on various topics. It uses multiple sources including Google, Wikipedia, and arXiv to collect data, and leverages AI models for analysis and content generation.
 
 ## Features
@@ -39,6 +41,8 @@ CogniChain combines "Cognition" (the mental action of acquiring knowledge) and "
 
 
 <img width="714" alt="image" src="https://github.com/user-attachments/assets/f4f68f08-fb2b-4e3c-9d97-69193887a5bc">
+
+![WhatsApp Image 2024-08-12 at 14 18 54](https://github.com/user-attachments/assets/000d100f-20be-4d71-b248-cdca1827b55d)
 
 
 
